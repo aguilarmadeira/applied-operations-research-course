@@ -11,6 +11,7 @@ Author: **José Firmino Aguilar Madeira** · ORCID [0000-0001-9523-3808](https:/
 ## Course map
 
 Every topic of the course, in order. **view** opens the slides on GitHub; **download** saves the PDF.
+**Tip:** Ctrl+click (or middle-click) opens a link — slides, Colab, MATLAB Online — in a new tab, so this page stays open.
 The English slides are a faithful translation of the Portuguese ones (same slides, examples and numbers; decimal point instead of decimal comma;
 the mathematical notation is the Portuguese one, as in the tests).
 
@@ -118,7 +119,7 @@ Exercise sheet 8: [English](exercises/en/sheet8_ahp.pdf) · [Portuguese](exercis
   and the examples solved in class, and ends with *confere com os slides: sim* ("matches the slides: yes"). The MATLAB code is a translation of the Python code
   (same functions, CamelCase names, same output; checked with GNU Octave).
 - **Colab:** nothing to install. **Colab** in the table opens the example of that deck; the button at the top of each chapter opens all the examples of the chapter.
-- **MATLAB Online:** the button at the top of each chapter opens the repository in MATLAB Online and runs all the examples of the chapter (MathWorks account required);
+- **MATLAB Online:** the button at the top of each chapter opens the repository in MATLAB Online and runs all the examples of the chapter (MathWorks account required; press Run and, if MATLAB asks, choose «Change Folder»);
   otherwise download `code/matlab/` and run the `ex….m` files in MATLAB or GNU Octave.
 - Clone the whole repository: the folders depend on each other. Details in [`code/README.md`](code/README.md).
 - Python needs `numpy` (and `scipy` in 2.3 and 5.2, for the linear-programming checks). Code comments and printed messages are in Portuguese.

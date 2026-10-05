@@ -11,6 +11,7 @@ Autor: **José Firmino Aguilar Madeira** · ORCID [0000-0001-9523-3808](https://
 ## Mapa da UC
 
 Todos os temas, pela ordem das aulas. **ver** abre os slides no GitHub; **descarregar** guarda o PDF.
+**Dica:** Ctrl+clique (ou clique com o botão do meio do rato) abre o link — slides, Colab, MATLAB Online — num separador novo, e esta página fica aberta.
 Os slides em inglês são uma tradução fiel dos portugueses (mesmos slides, exemplos e números; ponto decimal em vez de vírgula; notação matemática igual à dos testes).
 
 ### 1 · Teoria da decisão
@@ -116,7 +117,7 @@ Lista de exercícios 8: [português](exercises/pt/lista8_ahp.pdf) · [inglês](e
 - **MATLAB / Python:** uma pasta por deck, com as funções introduzidas nesse deck e um exemplo `ex…` que reproduz os números dos slides e os exemplos resolvidos na aula,
   e termina com *confere com os slides: sim*. O MATLAB é uma tradução do Python (mesmas funções, nomes com maiúscula inicial, mesma saída; verificado com o GNU Octave).
 - **Colab:** sem instalar nada. **Colab** na tabela abre o exemplo desse deck; o botão no topo de cada capítulo abre todos os exemplos do capítulo.
-- **MATLAB Online:** o botão no topo de cada capítulo abre o repositório no MATLAB Online e corre todos os exemplos do capítulo (precisa de conta MathWorks);
+- **MATLAB Online:** o botão no topo de cada capítulo abre o repositório no MATLAB Online e corre todos os exemplos do capítulo (precisa de conta MathWorks; carregue em Run e, se o MATLAB perguntar, escolha «Change Folder»);
   sem conta, descarregue `code/matlab/` e corra os `ex….m` no MATLAB ou no GNU Octave.
 - Clone o repositório inteiro: as pastas dependem umas das outras. Pormenores em [`code/README.md`](code/README.md).
 - O Python precisa de `numpy` (e de `scipy` em 2.3 e 5.2, nas verificações por programação linear).

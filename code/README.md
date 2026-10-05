@@ -41,7 +41,7 @@ Os `ex*.py` são a fonte: os cadernos são gerados por `python/notebooks/make_no
 
 ## Correr no MATLAB Online (para quem tem conta MathWorks)
 
-O link abre o repositório no MATLAB Online e o script do capítulo, que corre todos os exemplos. Quem não tem conta descarrega a pasta `matlab/` e corre os `ex*.m` no MATLAB ou no GNU Octave.
+O link clona o repositório para o seu MATLAB Drive e abre o script do capítulo, que corre todos os exemplos: carregue em **Run** e, se o MATLAB perguntar, escolha **Change Folder** (o script trata dos caminhos). Ctrl+clique no botão abre-o num separador novo. Quem não tem conta descarrega a pasta `matlab/` e corre os `ex*.m` no MATLAB ou no GNU Octave.
 
 | Capítulo | MATLAB Online |
 |---|---|
