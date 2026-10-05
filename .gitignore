@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# privado: soluções e notas do docente não entram no repositório público
+resolucoes/
+notas_aula/
